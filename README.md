@@ -13,22 +13,6 @@
 - 🧠 Interests: ML, Hackathons, Dance, Travel and Fitness  
 - 🧰 Tech: AI · ML · OOP · Design Patterns · Databases · Algorithms  
 
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.instagram.com/saeedeshmukhh" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/saideshmukhh16/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:saideshmukhh@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
-  </a>
-</p>
-
 
 ## ⚙️ Tech Stack
 
@@ -38,5 +22,17 @@
 **Cloud Platforms:** AWS, Linux  
 **Tools & Technologies:** Git, Spring Boot, IntelliJ, Eclipse, Agile/Scrum, Confluence/Jira, Pandas, NumPy, React.js, Machine Learning, JDBC, Duck Creek Policy Insurance Model, .NET MVC Frameworks, Multi-threading, Batch Scripting, Shell Scripting, Regression Testing  
 
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.instagram.com/saeedeshmukhh" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saideshmukh16/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saideshmukhh@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
+  </a>
+</p>
 
 ⭐️ Thanks for stopping by! Feel free to connect or collaborate.
