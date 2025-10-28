@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Deshmukh
 
-<!--
-**saeedeshmukhh/saeedeshmukhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏻‍💻 About Me
+Software Engineer | 🎓 MS CSE @ Santa Clara University | 💻 Ex-Accenture - Duck Creek Developer
+🧠 Interests: ML | Hackathons | Travel Explore | Fitness
+🛠 Tech Stack:  AI | ML | DL | NLP | Object Oriented Programming | Design Patterns | Database Systems | Algorithms
+🔭 Building: AI assistants, full-stack apps, and data tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤝🏻 Connect :
+
+- 📧 Email: [saideshmukh@email.com](mailto:saideshmukh@email.com)
+- 💼 LinkedIn: [linkedin.com/in/saideshmukh](https://www.linkedin.com/in/saideshmukh/)
+- 📷 Instagram: [@yourhandle](https://www.instagram.com/yourhandle)
