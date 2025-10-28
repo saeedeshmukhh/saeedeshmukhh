@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/saeedeshmukhh" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/saideshmukh16/" target="_blank">
+  <a href="https://www.linkedin.com/in/saideshmukhh16/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:saideshmukhh@gmail.com" target="_blank">
