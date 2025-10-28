@@ -40,11 +40,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ---
-## 📈 GitHub Stats
-
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saideshmukh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saideshmukh&layout=compact&theme=radical)
-
----
 
 ⭐️ Thanks for stopping by! Feel free to connect or collaborate.
