@@ -10,23 +10,24 @@
 
 - 🔍 Curious problem solver & fast learner  
 - 💡 Passionate about merging AI + Product Thinking  
-- 🧠 Interests: ML, Hackathons, Travel, and Fitness  
-- 🧰 Tech: AI · ML · NLP · DL · OOP · Design Patterns · Databases · Algorithms  
+- 🧠 Interests: ML, Hackathons, Dance, Travel and Fitness  
+- 🧰 Tech: AI · ML · OOP · Design Patterns · Databases · Algorithms  
 
 ---
 
 ## 🌐 Connect with Me
 
-<a href="mailto:saideshmukhh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/saideshmukh16/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.instagram.com/saeedeshmukhh">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-
+<p align="left">
+  <a href="https://www.instagram.com/saeedeshmukhh" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saideshmukh16/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saideshmukhh@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/>
+  </a>
+</p>
 ---
 
 ## ⚒️ Tech Stack Highlights
