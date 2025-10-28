@@ -1,17 +1,32 @@
-# 👋 Hi, I'm Sai Deshmukh
+# 👋 Hi there, I'm **Sai Deshmukh**  
 
+🎓 **MS in Computer Science & Engineering** @ *Santa Clara University*  
+💻 **Ex-Accenture** | Full Stack Engineer | Duck Creek Developer  
+🚀 Currently building: **AI Assistants**, **Full-Stack Apps**, and **Data Tools**
 
-👨🏻‍💻 About Me
-Software Engineer | 🎓 MS CSE @ Santa Clara University | 💻 Ex-Accenture - Duck Creek Developer
-🧠 Interests: ML | Hackathons | Travel Explore | Fitness
-🛠 Tech Stack:  AI | ML | DL | NLP | Object Oriented Programming | Design Patterns | Database Systems | Algorithms
-🔭 Building: AI assistants, full-stack apps, and data tools
+---
 
+## 👨🏻‍💻 About Me  
 
-🤝🏻 Connect :
+- 🔍 Curious problem solver & fast learner  
+- 💡 Passionate about merging AI + Product Thinking  
+- 🧠 Interests: ML, Hackathons, Travel, and Fitness  
+- 🧰 Tech: AI · ML · NLP · DL · OOP · Design Patterns · Databases · Algorithms  
 
-## 🌐 Let's Connect!
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saideshmukh@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saideshmukh/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourhandle)
+## 🌐 Connect with Me
+
+<a href="mailto:saideshmukhh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/saideshmukh16/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/saeedeshmukhh">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+
+---
+
+## ⚒️ Tech Stack Highlights
