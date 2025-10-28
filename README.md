@@ -10,6 +10,8 @@ Software Engineer | 🎓 MS CSE @ Santa Clara University | 💻 Ex-Accenture - D
 
 🤝🏻 Connect :
 
-- 📧 Email: [saideshmukh@email.com](mailto:saideshmukh@email.com)
-- 💼 LinkedIn: [linkedin.com/in/saideshmukh](https://www.linkedin.com/in/saideshmukh/)
-- 📷 Instagram: [@yourhandle](https://www.instagram.com/yourhandle)
+## 🌐 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saideshmukh@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saideshmukh/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourhandle)
