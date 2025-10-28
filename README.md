@@ -16,11 +16,11 @@
 
 ## ⚙️ Tech Stack
 
-**Languages:** Java, Python, C/C++, JavaScript (React.js), HTML/CSS  
-**Core Competencies:** High-performance systems, concurrency and multithreading, secure coding, unit testing, API integration, event-driven architecture  
-**Databases:** MySQL, SQL, Microsoft SQL Server  
-**Cloud Platforms:** AWS, Linux  
-**Tools & Technologies:** Git, Spring Boot, IntelliJ, Eclipse, Agile/Scrum, Confluence/Jira, Pandas, NumPy, React.js, Machine Learning, JDBC, Duck Creek Policy Insurance Model, .NET MVC Frameworks, Multi-threading, Batch Scripting, Shell Scripting, Regression Testing  
+- **Languages:** Java, Python, C/C++, JavaScript (React.js), HTML/CSS  
+- **Core Competencies:** High-performance systems, concurrency and multithreading, secure coding, unit testing, API integration, event-driven architecture  
+- **Databases:** MySQL, SQL, Microsoft SQL Server  
+- **Cloud Platforms:** AWS, Linux  
+- **Tools & Technologies:** Git, Spring Boot, IntelliJ, Eclipse, Agile/Scrum, Confluence/Jira, Pandas, NumPy, React.js, Machine Learning, JDBC, Duck Creek Policy Insurance Model, .NET MVC Frameworks, Multi-threading, Batch Scripting, Shell Scripting, Regression Testing  
 
 ## 🌐 Connect with Me
 <p align="left">
